@@ -95,7 +95,7 @@ h1 {
     flex-direction: column;
     min-width: unset;
   }
-  .column.left {
+  .container.left {
     height: 250px;
   }
 }
